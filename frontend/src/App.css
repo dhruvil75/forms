@@ -1,0 +1,38 @@
+@import '~antd/dist/antd.css';
+
+.site-layout-content {
+  min-height: 81vh;
+  padding: 24px;
+  background: #fff;
+}
+.logo {
+  float: left;
+  width: 120px;
+  height: 40px;
+  margin: 16px 24px 16px 0;
+  background-image: url("./logo.png");
+}
+.ant-row-rtl .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+
+
+.singleFormLoader{
+  margin: auto;
+  display: block;
+  margin-top: 30vh;
+}
+
+.submitSingleForm{
+  width: 8em;
+}
+
+.formLink {
+  word-wrap: break-word
+}
+
+.deleteQuestion{
+  color: rgb(204, 76, 76);
+}
+
