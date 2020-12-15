@@ -2,7 +2,7 @@
 
 Forms is a google forms replica made using [MERN] stack. It allows user to create surveys and add questions with fields like textbox, radiobutton and checkbox. After creating the form, the user can share the form URL and it can be filled by anyone.
 
-**For a walkthrough of the complete application, watch the Walkthrough video present in this repository.**
+**For a walkthrough of the complete application, watch the Walkthrough video [here]**
 
 ### Prerequisites
   - [NodeJS]
@@ -75,3 +75,4 @@ If the backend server is running, the frontend will work fine.
    [Morgan]: <https://www.npmjs.com/package/morgan>
    [Npmlog]: <https://www.npmjs.com/package/npmlog>
    [DotEnv]: <https://www.npmjs.com/package/dotenv>
+   [here]: <https://drive.google.com/file/d/1HvY27JE_WNOlza8rl9xUX0bRYPYixBpc/view?usp=sharing>
